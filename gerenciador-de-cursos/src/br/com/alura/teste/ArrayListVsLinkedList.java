@@ -26,7 +26,7 @@ public class ArrayListVsLinkedList {
 		System.out.println("Remoção da LinkedList demorou " + tempoRemocaoLinkedList);
 		
 		System.out.println("Tempo Total ArrayList  " + (tempoInsercaoArrayList + tempoRemocaoArrayList));
-		System.out.println("Tempo Total LinkedList " + (tempoInsercaoLinkedList + tempoRemocaoLinkedList));
+		System.out.println("Tempo Total LinkedList " + (tempoInsercaoLinkedList + tempoRemocaoLinkedList)) ;
 	}
 
 	/*
