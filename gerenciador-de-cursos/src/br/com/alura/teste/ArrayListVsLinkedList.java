@@ -7,7 +7,7 @@ import java.util.List;
 public class ArrayListVsLinkedList {
 
 	public static void main(String[] args) {
-		System.out.println("**** ArrayList vs LinkedList ***");
+		System.out.println("***** ArrayList vs LinkedList ****");
 
 		List<Integer> numerosArrayList = new ArrayList<>();
 		List<Integer> numerosLinkedList = new LinkedList<>();
